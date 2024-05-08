@@ -1,0 +1,196 @@
+1st div content
+mailicon(icanabeokuta&district@ican.net)
+phone call icon(+234)-803-12345678
+clock icon (8:00 AM until 6:00 PM)
+
+2nd div content
+ican logo(ABEOKUTA & DISTRICT SOCIETY)
+Home
+About us plus select icon
+Governance
+Insights plus select icon
+Gallery
+Contact Us
+Membership plus uer and select icon
+search icon
+
+3rd div content
+background image
+(text)
+Welcome to
+ICAN ABEOKUTA & DISTRICT SOCIETY
+Explore networking, growth, and leadership opportunities with us. Shape the future of accounting in Abeokuta & District Society. Whether seasoned or new, your journey starts here. Discover, learn, and succeed with ICAN Abeokuta. Welcome aboard!
+
+4th div content
+ceo image
+(text)
+The President's Welcome Speech
+
+Welcome to ICAN Abeokuta & District Society Chapter's website. As President of ICAN Nigeria, I commend your dedication to excellence in acountancy. This platform offers a wealth of resources for professional growth and networking. Let's collaborate and innovate our profession and serve society. Thank you for your commitment to upholding the highest standards of integrity and professionalism. Together, we will make a lasting impact in the field of accountancy.
+
+DR. INNOCENT IWEKA OKWUOSA, (PhD, CPFA, FCIB, FCA)
+President, ICAN
+
+5th div content
+The Chairman's Welcome Speech
+Welcome to ICAN Ogun State Chapter's website. As President of ICAN Nigeria, I comment your dedication to excellence in accountancy. This platform offers a wealth of resources for professional growth and networking. Let's collaborate to uploading the highest standards of integrity and professionalism. Together, we will make a lasting impact in the land of accountancy.
+DR. INNOCENT IWEKA OKWUOSA, (PhD, CPFA, FCIB, FCA)
+Chairman, ICAN Ogun State Chapter.
+ceo image
+
+6th div content
+News See All
+4 images in a row
+(text on the images)
+ICAN Abeokuta District set to commence new meetings
+Read more plus arrow icon
+calendar icon plus date 24th Jan, 2024
+
+7th div content
+Events See All
+Some of the events coming up
+four images but it is two per row
+(text on the images)
+New
+Trending
+Registration Process
+ICAN Ogun commence registration for 2024 candidates
+img icon plus text Annette Black
+Director, Producer
+
+8th div content
+ICAN Abeokuta Training Centers
+Empowering Accountants for Success 
+See All
+three images in a row
+(text on the image)
+Seun Ogunme Training Centre
+Empowering Excellence: Where Knowledge Meets Success
+Read more plus arrow icon
+
+9th div content
+Gallery
+
+Photo Speaks- Various Activities of the District
+See All
+four images in a row
+(text on the image)
+Melbourne(An amazing journey)
+Paris(A Paris Adventure)
+London(London eye adventure)
+Columbia(Amazing streets)
+
+10th div
+Stay in the loop
+Subscribe to receive the latest news and updates about ICAN
+Abeokuta & District Society. We promise not to spam you!
+
+Enter email address
+Continue
+
+Footer
+first row
+ICAN logo
+Our Activities in Th Oil And Petrochemical Sector, Engineering, Construction, And Production Of Lubricantts Date Back To 25 Years Ago An Activity That Continues To Grow And Develop Through The Design And Implementation Of Various Projects
+
+social media icons
+fb instagram whatsap twitter
+
+second row
+Site Maps
+Home
+Events
+Governance
+Gallery
+
+Third Row
+Contact Us
+National Head Office Address
+Plot 16, Idowu Taylor - ANNEX
+OFFICE 82, Murtala Mohammed Way 
+Victoria Island Lagos, Nigeria.
+
+Phone Number
+(+234)-803-807-5011, 805,887-8834
+
+Abeokuta Office Address
+Plot 7, Block A XVII, Along Presidential Boulevard, Oke-Mosan, Abeokuta, Ogun State
+
+Phone Number
+(+234)-803-807-5011, 805-887-8834
+
+(c) 2024 ICAN Abeokuta & District Society. All rights reserved.
+
+
+     background-color:#ECEDF5;
+    background-color:#ECEDF5;
+    background-color: #ffffff;
+X
+/* #f7f7fa
+
+rgb(247,247,250) */
+    background-color:#f9f9f9;
+/* .training-row{
+    display:flex;
+    align-items:center;
+    column-gap:35px;
+}
+
+.training-col{
+    box-shadow:rgba(17,17,26,0.05) 0px 1px 0px, rgba(17,17,26,0.1) 0px 0px 8px;
+    height:350px;
+    width:70%;
+    background-color: #f7f7fa;
+
+}
+
+.training-ui{
+
+    height:45%;
+    width:100%;
+}
+    
+.training-ui img{
+    width:90%;
+    height:100%;
+    margin: 15px;
+}
+
+
+
+ 
+
+    
+
+
+<div class="event-row">
+        <div class="event-col">
+          image 1
+        </div>
+        <div class="event-col"> 
+          image 2
+        </div>
+        <div class="event-col"> 
+          image 3
+        </div>
+        <div class="event-col"> 
+          image 4
+        </div>
+       
+    </div>
+
+    /* .event-row{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.event-col{
+    width: 500px;
+    height: 250px;
+    background-color: burlywood;
+    margin: 10px;
+} */
